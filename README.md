@@ -1,6 +1,6 @@
 # Intelligent-Bus
 
-Here's a **GitHub project description** for your **Intelligent Bus Passenger Counter with Buzzer Alert** system:
+
 
 ---
 
